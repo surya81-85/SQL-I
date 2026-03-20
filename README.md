@@ -7,7 +7,7 @@
 pip install flask
 
 # 2. Run the app
-python vulnerable_demo.py
+python app.py
 
 # 3. Open browser
 http://localhost:5001
